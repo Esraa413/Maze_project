@@ -1,0 +1,1 @@
+The maze is one of the types of games that stimulate the mind and contains several methods, including easy and complex ones, whose solution requires finding the correct way to reach the end of the maze.
